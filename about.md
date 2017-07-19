@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I like programming and music
+I like programming.
+I love music.
 
 ### Contact me
 
