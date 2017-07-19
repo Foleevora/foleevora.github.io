@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 I like programming.
+
 I love music.
 
 ### Contact me
