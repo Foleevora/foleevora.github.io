@@ -14,11 +14,11 @@ title: Cool Image? Just convert!
 * pyqt5
 
 ## Example
-![before]({{ site.baseurl }}/images/image.jpg)
+![before](https://github.com/Foleevora/foleevora.github.io/blob/master/images/image.jpg)
 
 ***
 
-![after]({{ site.baseurl }}/images/coolImage.png)
+![after](https://github.com/Foleevora/foleevora.github.io/blob/master/images/coolImage.png)
 
 ## Repository
 <https://github.com/Foleevora/CIC>
