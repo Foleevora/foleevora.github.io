@@ -13,5 +13,12 @@ title: Cool Image? Just convert!
 * pillow
 * pyqt5
 
+## Example
+![before]({{ site.baseurl }}/images/image.jpg)
+
+***
+
+![after]({{ site.baseurl }}/images/coolImage.png)
+
 ## Repository
 <https://github.com/Foleevora/CIC>
