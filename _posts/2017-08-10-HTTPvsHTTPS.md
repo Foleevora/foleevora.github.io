@@ -3,8 +3,6 @@ layout: post
 title: HTTP vs HTTPS
 ---
 
-# HTTP vs HTTPS
-
 HTTP는 HyperText Transfer Protocol의 줄임말이고 HTTPS는 HyperText Transfer Protocol over Secure sockets layer의 줄임말입니다.
 
 HTTPS는 HTTP에서 secure sockets layer가 붙은 프로토콜이라고 합니다.
